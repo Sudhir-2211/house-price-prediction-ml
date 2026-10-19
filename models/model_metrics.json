@@ -1,0 +1,23 @@
+{
+  "best_model": "Gradient Boosting",
+  "comparison": {
+    "Ridge Regression": {
+      "R2_Score": 0.9299,
+      "MAE": 40118.14,
+      "RMSE": 53015.03,
+      "MAPE_pct": 6.62
+    },
+    "Random Forest": {
+      "R2_Score": 0.9182,
+      "MAE": 42531.39,
+      "RMSE": 57297.78,
+      "MAPE_pct": 6.8
+    },
+    "Gradient Boosting": {
+      "R2_Score": 0.9378,
+      "MAE": 37465.02,
+      "RMSE": 49944.76,
+      "MAPE_pct": 5.97
+    }
+  }
+}
